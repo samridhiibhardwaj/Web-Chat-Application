@@ -1,3 +1,10 @@
+# Web Chat Application
+
+This is kind of like a clone MS-Teams. You can create multiple rooms, send texts and photos, and much more.
+
+### [Live Site](https://chatappsamridhi.netlify.app)
+<img width="1440" alt="7" src="https://user-images.githubusercontent.com/91188761/149633624-cb28c321-dd57-41b3-a9ad-6f2e8e9715f1.png">
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
